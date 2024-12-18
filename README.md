@@ -1,0 +1,1 @@
+Developed a policy recommendation system using NLP and OpenAI API to identify key innovation factors, achieving over 0.7 similarity with the Global Innovation Index to validate recommendations for Canada.
